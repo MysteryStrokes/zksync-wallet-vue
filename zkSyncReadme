@@ -1,0 +1,23 @@
+# zkSync Project
+
+Welcome to the zkSync project! This repository contains smart contracts and tools related to zkSync, a layer 2 scaling solution for Ethereum.
+
+## Overview
+
+zkSync is designed to provide fast and low-cost transactions on Ethereum by utilizing layer 2 scaling. This repository includes various smart contracts and utilities to interact with zkSync functionalities.
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed
+- [Truffle](https://www.trufflesuite.com/truffle) installed
+- Ethereum wallet with zkSync support
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/zksync-project.git
+   cd zksync-project
